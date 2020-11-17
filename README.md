@@ -33,11 +33,13 @@ THEN I am taken to the corresponding section of the README\
 * npm
 * node.JS
 * Inquirer Package
-* Screencastify
 * FS Package
+* Screencastify
 
 ## Change History
 
 1. Created shell files
 2. Required FS & Inquirer Packages
-3. 
+3. Added logic for license information & badges
+4. Created sample README file
+5. Created dynamic README file using prompts
