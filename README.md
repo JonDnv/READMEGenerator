@@ -28,7 +28,7 @@ THEN I am taken to the corresponding section of the README\
 
 ## Video Walk-Through
 
-[Walk-Through Video](Good%20README%20Generator.mp4)
+[Walk-Through Video](https://drive.google.com/file/d/1jSTZlNfO1nO3mKMWp38p734X4BcZX3bw/view?usp=sharing)
 
 ## Contributing
 
