@@ -28,6 +28,8 @@ THEN I am taken to the corresponding section of the README\
 
 ## Video Walk-Through
 
+[Walk-Through Video](Good%20README%20Generator.mp4)
+
 ## Contributing
 
 * npm

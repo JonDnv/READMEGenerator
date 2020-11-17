@@ -89,7 +89,7 @@ inquirer
         break;
       case "GNU GPLv3":
         licenseInfo =
-          "Software under the GPL may be run for all purposes, including commercial purposes and even as a tool for creating proprietary software, such as when using GPL-licensed compilers.[49] Users or companies who distribute GPL-licensed works (e.g. software), may charge a fee for copies or give them free of charge. This distinguishes the GPL from shareware software licenses that allow copying for personal use but prohibit commercial distribution, or proprietary licenses where copying is prohibited by copyright law. The FSF argues that freedom-respecting free software should also not restrict commercial use and distribution (including redistribution).";
+          "Software under the GPL may be run for all purposes, including commercial purposes and even as a tool for creating proprietary software, such as when using GPL-licensed compilers. Users or companies who distribute GPL-licensed works (e.g. software), may charge a fee for copies or give them free of charge. This distinguishes the GPL from shareware software licenses that allow copying for personal use but prohibit commercial distribution, or proprietary licenses where copying is prohibited by copyright law. The FSF argues that freedom-respecting free software should also not restrict commercial use and distribution (including redistribution).";
         break;
       case "ISC License":
         licenseInfo =
@@ -156,6 +156,7 @@ ${data.testInstructions}
 Should you have any questions regarding this project please open an issue or contact the creator at the below email address.
 
 [GitHub - ${data.github}](https://github.com/${data.github})
+
 [${data.email}](${data.email})`,
       (err) => (err ? console.log(err) : console.log("Success!!"))
     );
